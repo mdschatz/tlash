@@ -12,6 +12,7 @@ This library is built using the Autoconf tools and can be built with
 
 Examples showing how to use the library can be found in the test/ directory.
 
+Note: This library requires the libblas-dev package to be installed.
 -------------------------------------------------------------------------------
 
 Thanks again,
