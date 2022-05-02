@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/93/trunk/src/base/flamec/wrappers/blas/1/task
+END
+FLA_Axpy_task.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/45/trunk/src/base/flamec/wrappers/blas/1/task/FLA_Axpy_task.c
+END
+FLA_Scal_task.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/45/trunk/src/base/flamec/wrappers/blas/1/task/FLA_Scal_task.c
+END
+FLA_Scalr_task.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/45/trunk/src/base/flamec/wrappers/blas/1/task/FLA_Scalr_task.c
+END
+FLA_Axpyt_task.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/45/trunk/src/base/flamec/wrappers/blas/1/task/FLA_Axpyt_task.c
+END
+FLA_Copy_task.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/45/trunk/src/base/flamec/wrappers/blas/1/task/FLA_Copy_task.c
+END
+FLA_Copyr_task.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/45/trunk/src/base/flamec/wrappers/blas/1/task/FLA_Copyr_task.c
+END
+FLA_Copyt_task.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/45/trunk/src/base/flamec/wrappers/blas/1/task/FLA_Copyt_task.c
+END

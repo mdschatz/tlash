@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/45/trunk/tmp/test/fortran_QR_test
+END
+makefile
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/45/trunk/tmp/test/fortran_QR_test/makefile
+END
+qr_driver.f
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/45/trunk/tmp/test/fortran_QR_test/qr_driver.f
+END
+rand.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/45/trunk/tmp/test/fortran_QR_test/rand.c
+END

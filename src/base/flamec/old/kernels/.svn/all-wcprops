@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/45/trunk/src/base/flamec/old/kernels
+END
+FLA_Gemm_pp_nn_var1.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/45/trunk/src/base/flamec/old/kernels/FLA_Gemm_pp_nn_var1.c
+END
+FLA_Gemm_kernels.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/45/trunk/src/base/flamec/old/kernels/FLA_Gemm_kernels.c
+END

@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/93/trunk/src/base/flamec/wrappers/blas/2/front
+END
+FLA_Trsvsx.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/45/trunk/src/base/flamec/wrappers/blas/2/front/FLA_Trsvsx.c
+END
+FLA_Ger.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/45/trunk/src/base/flamec/wrappers/blas/2/front/FLA_Ger.c
+END
+FLA_Syr.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/45/trunk/src/base/flamec/wrappers/blas/2/front/FLA_Syr.c
+END
+FLA_Her.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/45/trunk/src/base/flamec/wrappers/blas/2/front/FLA_Her.c
+END
+FLA_Gerc.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/45/trunk/src/base/flamec/wrappers/blas/2/front/FLA_Gerc.c
+END
+FLA_Herc.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/45/trunk/src/base/flamec/wrappers/blas/2/front/FLA_Herc.c
+END
+FLA_Trmv.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/45/trunk/src/base/flamec/wrappers/blas/2/front/FLA_Trmv.c
+END
+FLA_Symv.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/45/trunk/src/base/flamec/wrappers/blas/2/front/FLA_Symv.c
+END
+FLA_Syr2.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/45/trunk/src/base/flamec/wrappers/blas/2/front/FLA_Syr2.c
+END
+FLA_Hemv.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/45/trunk/src/base/flamec/wrappers/blas/2/front/FLA_Hemv.c
+END
+FLA_Her2.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/45/trunk/src/base/flamec/wrappers/blas/2/front/FLA_Her2.c
+END
+FLA_Gemvc.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/45/trunk/src/base/flamec/wrappers/blas/2/front/FLA_Gemvc.c
+END
+FLA_Hemvc.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/45/trunk/src/base/flamec/wrappers/blas/2/front/FLA_Hemvc.c
+END
+FLA_Trmvsx.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/45/trunk/src/base/flamec/wrappers/blas/2/front/FLA_Trmvsx.c
+END
+FLA_Her2c.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/45/trunk/src/base/flamec/wrappers/blas/2/front/FLA_Her2c.c
+END

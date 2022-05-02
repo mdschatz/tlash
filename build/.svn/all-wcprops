@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 28
+/svn/!svn/ver/45/trunk/build
+END
+query-revision-num.sh
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/45/trunk/build/query-revision-num.sh
+END
+gen-header.sh
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/45/trunk/build/gen-header.sh
+END
+rebuild-libflame-doxygen-docs.sh
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/45/trunk/build/rebuild-libflame-doxygen-docs.sh
+END
+gen-make-frag.sh
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/45/trunk/build/gen-make-frag.sh
+END
+publish-libflame-src-snapshot.sh
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/45/trunk/build/publish-libflame-src-snapshot.sh
+END
+dvi-ps.sh
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/45/trunk/build/dvi-ps.sh
+END
+update-check-rev-file.sh
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/45/trunk/build/update-check-rev-file.sh
+END
+config.mk.in
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/45/trunk/build/config.mk.in
+END
+mirror-tree.sh
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/45/trunk/build/mirror-tree.sh
+END
+find-dependents.sh
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/45/trunk/build/find-dependents.sh
+END
+FLA_config.h.in
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/45/trunk/build/FLA_config.h.in
+END
+post-configure.sh.in
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/45/trunk/build/post-configure.sh.in
+END
+prepend-license.sh
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/45/trunk/build/prepend-license.sh
+END
+recursive-sed.sh
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/45/trunk/build/recursive-sed.sh
+END
+export-for-release.sh
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/45/trunk/build/export-for-release.sh
+END
+gen-make-frags.sh
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/45/trunk/build/gen-make-frags.sh
+END
+monolithic_header.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/45/trunk/build/monolithic_header.c
+END
+runme.sh
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/45/trunk/build/runme.sh
+END
+rebuild-libflame-book.sh
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/45/trunk/build/rebuild-libflame-book.sh
+END
+print-tree.sh
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/45/trunk/build/print-tree.sh
+END
+svn-info-revision.sh
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/45/trunk/build/svn-info-revision.sh
+END
+lntexinputs.sh
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/45/trunk/build/lntexinputs.sh
+END

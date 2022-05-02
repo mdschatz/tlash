@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/92/trunk/mex/windows/build
+END
+defs.mk
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/92/trunk/mex/windows/build/defs.mk
+END
+FLA_config.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/92/trunk/mex/windows/build/FLA_config.h
+END
+libflame-symbols.def
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/92/trunk/mex/windows/build/libflame-symbols.def
+END
+config.mk.in
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/92/trunk/mex/windows/build/config.mk.in
+END
+gen-config-file.py
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/92/trunk/mex/windows/build/gen-config-file.py
+END
+gen-check-rev-file.py
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/92/trunk/mex/windows/build/gen-check-rev-file.py
+END
+gather-src-for-windows.py
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/92/trunk/mex/windows/build/gather-src-for-windows.py
+END
+nmake-help.cmd
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/92/trunk/mex/windows/build/nmake-help.cmd
+END

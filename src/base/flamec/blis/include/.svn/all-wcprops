@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/93/trunk/src/base/flamec/blis/include
+END
+blis_prototypes_blas.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/45/trunk/src/base/flamec/blis/include/blis_prototypes_blas.h
+END
+blis_prototypes_cblas.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/45/trunk/src/base/flamec/blis/include/blis_prototypes_cblas.h
+END
+blis_prototypes_query.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/45/trunk/src/base/flamec/blis/include/blis_prototypes_query.h
+END
+blis_prototypes_fused1.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/45/trunk/src/base/flamec/blis/include/blis_prototypes_fused1.h
+END
+blis_f77_name_mangling.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/45/trunk/src/base/flamec/blis/include/blis_f77_name_mangling.h
+END
+blis.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/45/trunk/src/base/flamec/blis/include/blis.h
+END
+blis_prototypes_level1.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/45/trunk/src/base/flamec/blis/include/blis_prototypes_level1.h
+END
+blis_prototypes_level2.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/45/trunk/src/base/flamec/blis/include/blis_prototypes_level2.h
+END
+blis_type_defs.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/45/trunk/src/base/flamec/blis/include/blis_type_defs.h
+END
+blis_prototypes_level3.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/45/trunk/src/base/flamec/blis/include/blis_prototypes_level3.h
+END
+blis_macro_defs.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/45/trunk/src/base/flamec/blis/include/blis_macro_defs.h
+END
+blis_prototypes_misc.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/45/trunk/src/base/flamec/blis/include/blis_prototypes_misc.h
+END
+blis_prototypes_util.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/45/trunk/src/base/flamec/blis/include/blis_prototypes_util.h
+END

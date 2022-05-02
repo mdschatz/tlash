@@ -1,0 +1,227 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/93/trunk/src/base/flamec/blis/util
+END
+bli_maxabsv.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/45/trunk/src/base/flamec/blis/util/bli_maxabsv.c
+END
+bli_shiftdiag.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/45/trunk/src/base/flamec/blis/util/bli_shiftdiag.c
+END
+bli_ident.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/45/trunk/src/base/flamec/blis/util/bli_ident.c
+END
+bli_create_contigmr.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/45/trunk/src/base/flamec/blis/util/bli_create_contigmr.c
+END
+bli_set_dims.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/45/trunk/src/base/flamec/blis/util/bli_set_dims.c
+END
+bli_create_contigmt.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/45/trunk/src/base/flamec/blis/util/bli_create_contigmt.c
+END
+bli_setm.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/45/trunk/src/base/flamec/blis/util/bli_setm.c
+END
+bli_maxabsmr.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/45/trunk/src/base/flamec/blis/util/bli_maxabsmr.c
+END
+bli_scalediag.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/45/trunk/src/base/flamec/blis/util/bli_scalediag.c
+END
+bli_invert2s.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/45/trunk/src/base/flamec/blis/util/bli_invert2s.c
+END
+bli_ewscalmt.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/45/trunk/src/base/flamec/blis/util/bli_ewscalmt.c
+END
+bli_setdiag.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/45/trunk/src/base/flamec/blis/util/bli_setdiag.c
+END
+bli_setv.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/45/trunk/src/base/flamec/blis/util/bli_setv.c
+END
+bli_ewinvscalv.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/45/trunk/src/base/flamec/blis/util/bli_ewinvscalv.c
+END
+bli_randmr.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/45/trunk/src/base/flamec/blis/util/bli_randmr.c
+END
+bli_create_contigm.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/45/trunk/src/base/flamec/blis/util/bli_create_contigm.c
+END
+bli_create_contigmsr.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/45/trunk/src/base/flamec/blis/util/bli_create_contigmsr.c
+END
+bli_apdiagmv.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/45/trunk/src/base/flamec/blis/util/bli_apdiagmv.c
+END
+bli_setmr.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/45/trunk/src/base/flamec/blis/util/bli_setmr.c
+END
+bli_inverts.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/45/trunk/src/base/flamec/blis/util/bli_inverts.c
+END
+bli_ewinvscalmt.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/45/trunk/src/base/flamec/blis/util/bli_ewinvscalmt.c
+END
+bli_invertv.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/45/trunk/src/base/flamec/blis/util/bli_invertv.c
+END
+bli_free_contigm.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/45/trunk/src/base/flamec/blis/util/bli_free_contigm.c
+END
+bli_randm.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/45/trunk/src/base/flamec/blis/util/bli_randm.c
+END
+bli_ewscalv.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/45/trunk/src/base/flamec/blis/util/bli_ewscalv.c
+END
+bli_free_saved_contigmr.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/45/trunk/src/base/flamec/blis/util/bli_free_saved_contigmr.c
+END
+bli_allocm.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/45/trunk/src/base/flamec/blis/util/bli_allocm.c
+END
+bli_rands.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/45/trunk/src/base/flamec/blis/util/bli_rands.c
+END
+bli_randv.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/45/trunk/src/base/flamec/blis/util/bli_randv.c
+END
+bli_constants.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/45/trunk/src/base/flamec/blis/util/bli_constants.c
+END
+bli_allocv.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/45/trunk/src/base/flamec/blis/util/bli_allocv.c
+END
+bli_free.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/45/trunk/src/base/flamec/blis/util/bli_free.c
+END
+bli_free_saved_contigm.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/45/trunk/src/base/flamec/blis/util/bli_free_saved_contigm.c
+END
+bli_maxabsm.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/45/trunk/src/base/flamec/blis/util/bli_maxabsm.c
+END
+bli_free_saved_contigmsr.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/45/trunk/src/base/flamec/blis/util/bli_free_saved_contigmsr.c
+END
+bli_set_contig_strides.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/45/trunk/src/base/flamec/blis/util/bli_set_contig_strides.c
+END
+bli_symmize.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/45/trunk/src/base/flamec/blis/util/bli_symmize.c
+END

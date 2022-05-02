@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/45/trunk/src/blas/1/copyt/front/flamec/test/fla
+END
+REF_Copyt.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/45/trunk/src/blas/1/copyt/front/flamec/test/fla/REF_Copyt.c
+END
+time_Copyt.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/45/trunk/src/blas/1/copyt/front/flamec/test/fla/time_Copyt.c
+END
+makefile
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/45/trunk/src/blas/1/copyt/front/flamec/test/fla/makefile
+END
+test_Copyt.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/45/trunk/src/blas/1/copyt/front/flamec/test/fla/test_Copyt.c
+END
+input
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/45/trunk/src/blas/1/copyt/front/flamec/test/fla/input
+END

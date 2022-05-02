@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 31
+/svn/!svn/ver/45/trunk/run-conf
+END
+regen-make-frags.sh
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/45/trunk/run-conf/regen-make-frags.sh
+END
+run-configure.sh
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/45/trunk/run-conf/run-configure.sh
+END

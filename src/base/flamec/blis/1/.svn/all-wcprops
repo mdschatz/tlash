@@ -1,0 +1,185 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/93/trunk/src/base/flamec/blis/1
+END
+bli_nrm2.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/45/trunk/src/base/flamec/blis/1/bli_nrm2.c
+END
+bli_conjv.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/45/trunk/src/base/flamec/blis/1/bli_conjv.c
+END
+bli_axpy.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/45/trunk/src/base/flamec/blis/1/bli_axpy.c
+END
+bli_fnorm.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/45/trunk/src/base/flamec/blis/1/bli_fnorm.c
+END
+bli_scalmr.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/45/trunk/src/base/flamec/blis/1/bli_scalmr.c
+END
+bli_scal.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/45/trunk/src/base/flamec/blis/1/bli_scal.c
+END
+bli_axpymt.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/45/trunk/src/base/flamec/blis/1/bli_axpymt.c
+END
+bli_invscalv.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/45/trunk/src/base/flamec/blis/1/bli_invscalv.c
+END
+bli_dot.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/45/trunk/src/base/flamec/blis/1/bli_dot.c
+END
+bli_amax.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/45/trunk/src/base/flamec/blis/1/bli_amax.c
+END
+bli_conjmr.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/45/trunk/src/base/flamec/blis/1/bli_conjmr.c
+END
+bli_axpysv.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/45/trunk/src/base/flamec/blis/1/bli_axpysv.c
+END
+bli_dot2s.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/45/trunk/src/base/flamec/blis/1/bli_dot2s.c
+END
+bli_copymrt.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/45/trunk/src/base/flamec/blis/1/bli_copymrt.c
+END
+bli_scalm.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/45/trunk/src/base/flamec/blis/1/bli_scalm.c
+END
+bli_swapv.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/45/trunk/src/base/flamec/blis/1/bli_swapv.c
+END
+bli_copyv.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/45/trunk/src/base/flamec/blis/1/bli_copyv.c
+END
+bli_axpymrt.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/45/trunk/src/base/flamec/blis/1/bli_axpymrt.c
+END
+bli_axpysmt.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/45/trunk/src/base/flamec/blis/1/bli_axpysmt.c
+END
+bli_asum.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/45/trunk/src/base/flamec/blis/1/bli_asum.c
+END
+bli_conjm.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/45/trunk/src/base/flamec/blis/1/bli_conjm.c
+END
+bli_axpyv.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/45/trunk/src/base/flamec/blis/1/bli_axpyv.c
+END
+bli_scalv.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/45/trunk/src/base/flamec/blis/1/bli_scalv.c
+END
+bli_dots.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/45/trunk/src/base/flamec/blis/1/bli_dots.c
+END
+bli_copymr.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/45/trunk/src/base/flamec/blis/1/bli_copymr.c
+END
+bli_copy.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/45/trunk/src/base/flamec/blis/1/bli_copy.c
+END
+bli_swap.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/45/trunk/src/base/flamec/blis/1/bli_swap.c
+END
+bli_swapmt.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/45/trunk/src/base/flamec/blis/1/bli_swapmt.c
+END
+bli_copymt.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/45/trunk/src/base/flamec/blis/1/bli_copymt.c
+END
+bli_invscalm.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/45/trunk/src/base/flamec/blis/1/bli_invscalm.c
+END

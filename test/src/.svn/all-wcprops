@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 31
+/svn/!svn/ver/94/trunk/test/src
+END
+test_sttsm_dense.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/94/trunk/test/src/test_sttsm_dense.c
+END
+test_driver.c
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/45/trunk/test/src/test_driver.c
+END
+tensor_sym_view.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/94/trunk/test/src/tensor_sym_view.c
+END
+tensor_ttm.c
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/94/trunk/test/src/tensor_ttm.c
+END
+test_tensor_part.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/94/trunk/test/src/test_tensor_part.c
+END
+tensor_psttm.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/94/trunk/test/src/tensor_psttm.c
+END
+tensor_sym.c
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/94/trunk/test/src/tensor_sym.c
+END
+test_ttm_single.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/92/trunk/test/src/test_ttm_single.c
+END
+test_ttm_single.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/45/trunk/test/src/test_ttm_single.h
+END
+test_sttsm.c
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/94/trunk/test/src/test_sttsm.c
+END
+test_TLASH.c
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/92/trunk/test/src/test_TLASH.c
+END
+tensor_permute.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/94/trunk/test/src/tensor_permute.c
+END
+test_symm_TLASH.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/92/trunk/test/src/test_symm_TLASH.c
+END
+tensor_psym.c
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/94/trunk/test/src/tensor_psym.c
+END
+test_sttsm_but_one.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/94/trunk/test/src/test_sttsm_but_one.c
+END
+test_tensor_print.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/94/trunk/test/src/test_tensor_print.c
+END

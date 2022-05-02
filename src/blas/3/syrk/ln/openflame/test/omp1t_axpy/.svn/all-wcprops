@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/45/trunk/src/blas/3/syrk/ln/openflame/test/omp1t_axpy
+END
+FLA_Syrk_ln_omp1t_var5_fp.c
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/45/trunk/src/blas/3/syrk/ln/openflame/test/omp1t_axpy/FLA_Syrk_ln_omp1t_var5_fp.c
+END
+FLA_Syrk_ln_omp1t_var5_fc.c
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/45/trunk/src/blas/3/syrk/ln/openflame/test/omp1t_axpy/FLA_Syrk_ln_omp1t_var5_fc.c
+END
+input_var5_op
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/45/trunk/src/blas/3/syrk/ln/openflame/test/omp1t_axpy/input_var5_op
+END
+makefile
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/45/trunk/src/blas/3/syrk/ln/openflame/test/omp1t_axpy/makefile
+END
+REF_Syrk_ln.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/45/trunk/src/blas/3/syrk/ln/openflame/test/omp1t_axpy/REF_Syrk_ln.c
+END
+input_var5_sq
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/45/trunk/src/blas/3/syrk/ln/openflame/test/omp1t_axpy/input_var5_sq
+END
+time_Syrk_ln.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/45/trunk/src/blas/3/syrk/ln/openflame/test/omp1t_axpy/time_Syrk_ln.c
+END
+test_Syrk_ln.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/45/trunk/src/blas/3/syrk/ln/openflame/test/omp1t_axpy/test_Syrk_ln.c
+END
+FLA_Syrk_ln_omp1t_var5_rp.c
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/45/trunk/src/blas/3/syrk/ln/openflame/test/omp1t_axpy/FLA_Syrk_ln_omp1t_var5_rp.c
+END
+input_var5_ip
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/45/trunk/src/blas/3/syrk/ln/openflame/test/omp1t_axpy/input_var5_ip
+END
+FLA_Syrk_ln_omp1t_var5_rc.c
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/45/trunk/src/blas/3/syrk/ln/openflame/test/omp1t_axpy/FLA_Syrk_ln_omp1t_var5_rc.c
+END

@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/93/trunk/src/blas/1/copyt/front/flamec
+END
+FLASH_Copyt.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/45/trunk/src/blas/1/copyt/front/flamec/FLASH_Copyt.c
+END
+FLA_Copyt_internal.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/45/trunk/src/blas/1/copyt/front/flamec/FLA_Copyt_internal.c
+END
+FLA_Copyt_n.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/45/trunk/src/blas/1/copyt/front/flamec/FLA_Copyt_n.c
+END
+FLA_Copyt.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/45/trunk/src/blas/1/copyt/front/flamec/FLA_Copyt.c
+END
+FLA_Copyt_c.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/45/trunk/src/blas/1/copyt/front/flamec/FLA_Copyt_c.c
+END
+FLA_Copyt_t.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/45/trunk/src/blas/1/copyt/front/flamec/FLA_Copyt_t.c
+END
+FLA_Copyt.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/45/trunk/src/blas/1/copyt/front/flamec/FLA_Copyt.h
+END
+FLA_Copyt_h.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/45/trunk/src/blas/1/copyt/front/flamec/FLA_Copyt_h.c
+END

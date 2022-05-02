@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/93/trunk/src/base/flamec/wrappers/blas/3/external
+END
+FLA_Herk_external.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/45/trunk/src/base/flamec/wrappers/blas/3/external/FLA_Herk_external.c
+END
+FLA_Trmmsx_external.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/45/trunk/src/base/flamec/wrappers/blas/3/external/FLA_Trmmsx_external.c
+END
+FLA_Syr2k_external.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/45/trunk/src/base/flamec/wrappers/blas/3/external/FLA_Syr2k_external.c
+END
+FLA_Her2k_external.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/45/trunk/src/base/flamec/wrappers/blas/3/external/FLA_Her2k_external.c
+END
+FLA_Trmm_external.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/45/trunk/src/base/flamec/wrappers/blas/3/external/FLA_Trmm_external.c
+END
+FLA_Trsmsx_external.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/45/trunk/src/base/flamec/wrappers/blas/3/external/FLA_Trsmsx_external.c
+END
+FLA_Gemm_external.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/45/trunk/src/base/flamec/wrappers/blas/3/external/FLA_Gemm_external.c
+END
+FLA_Symm_external.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/45/trunk/src/base/flamec/wrappers/blas/3/external/FLA_Symm_external.c
+END
+FLA_Trsm_external.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/45/trunk/src/base/flamec/wrappers/blas/3/external/FLA_Trsm_external.c
+END
+FLA_Hemm_external.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/45/trunk/src/base/flamec/wrappers/blas/3/external/FLA_Hemm_external.c
+END
+FLA_Syrk_external.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/45/trunk/src/base/flamec/wrappers/blas/3/external/FLA_Syrk_external.c
+END

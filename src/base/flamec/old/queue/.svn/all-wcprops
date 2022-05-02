@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/45/trunk/src/base/flamec/old/queue
+END
+FLA_queue_omp.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/45/trunk/src/base/flamec/old/queue/FLA_queue_omp.h
+END
+FLA_task_partitioning.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/45/trunk/src/base/flamec/old/queue/FLA_task_partitioning.c
+END
+FLA_task_partitioning.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/45/trunk/src/base/flamec/old/queue/FLA_task_partitioning.h
+END
+FLA_queue_omp.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/45/trunk/src/base/flamec/old/queue/FLA_queue_omp.c
+END

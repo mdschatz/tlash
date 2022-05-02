@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/45/trunk/src/blas/3/symm/front/flamec/test/fla
+END
+makefile
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/45/trunk/src/blas/3/symm/front/flamec/test/fla/makefile
+END
+input
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/45/trunk/src/blas/3/symm/front/flamec/test/fla/input
+END
+REF_Symm.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/45/trunk/src/blas/3/symm/front/flamec/test/fla/REF_Symm.c
+END
+time_Symm.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/45/trunk/src/blas/3/symm/front/flamec/test/fla/time_Symm.c
+END
+test_Symm.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/45/trunk/src/blas/3/symm/front/flamec/test/fla/test_Symm.c
+END

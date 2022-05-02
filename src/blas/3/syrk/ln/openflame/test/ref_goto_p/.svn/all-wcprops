@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/45/trunk/src/blas/3/syrk/ln/openflame/test/ref_goto_p
+END
+input_goto_op
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/45/trunk/src/blas/3/syrk/ln/openflame/test/ref_goto_p/input_goto_op
+END
+input_goto_sq
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/45/trunk/src/blas/3/syrk/ln/openflame/test/ref_goto_p/input_goto_sq
+END
+makefile
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/45/trunk/src/blas/3/syrk/ln/openflame/test/ref_goto_p/makefile
+END
+REF_Syrk_ln.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/45/trunk/src/blas/3/syrk/ln/openflame/test/ref_goto_p/REF_Syrk_ln.c
+END
+input
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/45/trunk/src/blas/3/syrk/ln/openflame/test/ref_goto_p/input
+END
+input_goto_ip
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/45/trunk/src/blas/3/syrk/ln/openflame/test/ref_goto_p/input_goto_ip
+END
+time_Syrk_ln.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/45/trunk/src/blas/3/syrk/ln/openflame/test/ref_goto_p/time_Syrk_ln.c
+END
+test_Syrk_ln.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/45/trunk/src/blas/3/syrk/ln/openflame/test/ref_goto_p/test_Syrk_ln.c
+END

@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/93/trunk/src/blas/3/her2k/front/flamec
+END
+FLA_Her2k_lh.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/45/trunk/src/blas/3/her2k/front/flamec/FLA_Her2k_lh.c
+END
+FLA_Her2k.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/45/trunk/src/blas/3/her2k/front/flamec/FLA_Her2k.h
+END
+FLA_Her2k_ln.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/45/trunk/src/blas/3/her2k/front/flamec/FLA_Her2k_ln.c
+END
+FLASH_Her2k.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/45/trunk/src/blas/3/her2k/front/flamec/FLASH_Her2k.c
+END
+FLA_Her2k_uh.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/45/trunk/src/blas/3/her2k/front/flamec/FLA_Her2k_uh.c
+END
+FLA_Her2k_internal.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/45/trunk/src/blas/3/her2k/front/flamec/FLA_Her2k_internal.c
+END
+FLA_Her2k.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/45/trunk/src/blas/3/her2k/front/flamec/FLA_Her2k.c
+END
+FLA_Her2k_un.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/45/trunk/src/blas/3/her2k/front/flamec/FLA_Her2k_un.c
+END

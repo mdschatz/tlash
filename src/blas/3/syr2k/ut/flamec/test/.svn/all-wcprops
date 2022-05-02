@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/45/trunk/src/blas/3/syr2k/ut/flamec/test
+END
+makefile
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/45/trunk/src/blas/3/syr2k/ut/flamec/test/makefile
+END
+REF_Syr2k_ut.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/45/trunk/src/blas/3/syr2k/ut/flamec/test/REF_Syr2k_ut.c
+END
+input
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/45/trunk/src/blas/3/syr2k/ut/flamec/test/input
+END
+time_Syr2k_ut.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/45/trunk/src/blas/3/syr2k/ut/flamec/test/time_Syr2k_ut.c
+END
+test_Syr2k_ut.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/45/trunk/src/blas/3/syr2k/ut/flamec/test/test_Syr2k_ut.c
+END

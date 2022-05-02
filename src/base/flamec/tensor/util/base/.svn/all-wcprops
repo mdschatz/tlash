@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/94/trunk/src/base/flamec/tensor/util/base
+END
+FLA_Binomial.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/45/trunk/src/base/flamec/tensor/util/base/FLA_Binomial.c
+END
+FLA_print_array.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/92/trunk/src/base/flamec/tensor/util/base/FLA_print_array.c
+END
+FLA_Adjust_2D_Info.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/92/trunk/src/base/flamec/tensor/util/base/FLA_Adjust_2D_Info.c
+END
+FLA_Set_tensor_stride.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/92/trunk/src/base/flamec/tensor/util/base/FLA_Set_tensor_stride.c
+END
+FLA_Compare_Pairwise_Sort.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/73/trunk/src/base/flamec/tensor/util/base/FLA_Compare_Pairwise_Sort.c
+END
+FLA_array_elemwise_quotient.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/92/trunk/src/base/flamec/tensor/util/base/FLA_array_elemwise_quotient.c
+END
+TLA_create_part_obj.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/85/trunk/src/base/flamec/tensor/util/base/TLA_create_part_obj.c
+END
+FLA_Random_sym_tensor.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/92/trunk/src/base/flamec/tensor/util/base/FLA_Random_sym_tensor.c
+END
+FLA_Ttm_flops.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/92/trunk/src/base/flamec/tensor/util/base/FLA_Ttm_flops.c
+END
+FLA_array_elemwise_product.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/92/trunk/src/base/flamec/tensor/util/base/FLA_array_elemwise_product.c
+END
+FLA_Random_tensor.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/94/trunk/src/base/flamec/tensor/util/base/FLA_Random_tensor.c
+END
+FLA_array_product.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/92/trunk/src/base/flamec/tensor/util/base/FLA_array_product.c
+END
+TLA_sym_init_nonsymmetric.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/85/trunk/src/base/flamec/tensor/util/base/TLA_sym_init_nonsymmetric.c
+END
+FLA_Get_unique_info.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/92/trunk/src/base/flamec/tensor/util/base/FLA_Get_unique_info.c
+END
+FLA_Set_zero_tensor.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/85/trunk/src/base/flamec/tensor/util/base/FLA_Set_zero_tensor.c
+END
+TLA_destroy_part_obj.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/73/trunk/src/base/flamec/tensor/util/base/TLA_destroy_part_obj.c
+END
+FLA_TIndex_to_LinIndex.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/92/trunk/src/base/flamec/tensor/util/base/FLA_TIndex_to_LinIndex.c
+END

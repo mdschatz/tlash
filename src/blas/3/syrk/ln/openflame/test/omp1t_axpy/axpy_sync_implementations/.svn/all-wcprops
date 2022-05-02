@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/45/trunk/src/blas/3/syrk/ln/openflame/test/omp1t_axpy/axpy_sync_implementations
+END
+FLA_Axpy_sync_circular.c
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/45/trunk/src/blas/3/syrk/ln/openflame/test/omp1t_axpy/axpy_sync_implementations/FLA_Axpy_sync_circular.c
+END
+FLA_Axpy_sync_pipeline.c
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/45/trunk/src/blas/3/syrk/ln/openflame/test/omp1t_axpy/axpy_sync_implementations/FLA_Axpy_sync_pipeline.c
+END
+REF_Axpy_sync_circular.c
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/45/trunk/src/blas/3/syrk/ln/openflame/test/omp1t_axpy/axpy_sync_implementations/REF_Axpy_sync_circular.c
+END
+REF_Axpy_sync_pipeline.c
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/45/trunk/src/blas/3/syrk/ln/openflame/test/omp1t_axpy/axpy_sync_implementations/REF_Axpy_sync_pipeline.c
+END

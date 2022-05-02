@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/93/trunk/src/base/flamec/check/blas/3
+END
+FLA_Syrk_check.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/45/trunk/src/base/flamec/check/blas/3/FLA_Syrk_check.c
+END
+FLA_Herk_check.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/45/trunk/src/base/flamec/check/blas/3/FLA_Herk_check.c
+END
+FLA_Trmmsx_check.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/45/trunk/src/base/flamec/check/blas/3/FLA_Trmmsx_check.c
+END
+FLA_Trsmsx_check.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/45/trunk/src/base/flamec/check/blas/3/FLA_Trsmsx_check.c
+END
+FLA_Syr2k_internal_check.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/45/trunk/src/base/flamec/check/blas/3/FLA_Syr2k_internal_check.c
+END
+FLA_Her2k_internal_check.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/45/trunk/src/base/flamec/check/blas/3/FLA_Her2k_internal_check.c
+END
+FLA_Syr2k_check.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/45/trunk/src/base/flamec/check/blas/3/FLA_Syr2k_check.c
+END
+FLA_Her2k_check.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/45/trunk/src/base/flamec/check/blas/3/FLA_Her2k_check.c
+END
+FLA_Trmm_internal_check.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/45/trunk/src/base/flamec/check/blas/3/FLA_Trmm_internal_check.c
+END
+FLA_Trmm_check.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/45/trunk/src/base/flamec/check/blas/3/FLA_Trmm_check.c
+END
+FLA_Trsm_internal_check.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/45/trunk/src/base/flamec/check/blas/3/FLA_Trsm_internal_check.c
+END
+FLA_Symm_internal_check.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/45/trunk/src/base/flamec/check/blas/3/FLA_Symm_internal_check.c
+END
+FLA_Gemm_internal_check.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/45/trunk/src/base/flamec/check/blas/3/FLA_Gemm_internal_check.c
+END
+FLA_Hemm_internal_check.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/45/trunk/src/base/flamec/check/blas/3/FLA_Hemm_internal_check.c
+END
+FLA_Syrk_internal_check.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/45/trunk/src/base/flamec/check/blas/3/FLA_Syrk_internal_check.c
+END
+FLA_Herk_internal_check.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/45/trunk/src/base/flamec/check/blas/3/FLA_Herk_internal_check.c
+END
+FLA_Symm_check.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/45/trunk/src/base/flamec/check/blas/3/FLA_Symm_check.c
+END
+FLA_Gemm_check.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/45/trunk/src/base/flamec/check/blas/3/FLA_Gemm_check.c
+END
+FLA_Trsm_check.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/45/trunk/src/base/flamec/check/blas/3/FLA_Trsm_check.c
+END
+FLA_Hemm_check.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/45/trunk/src/base/flamec/check/blas/3/FLA_Hemm_check.c
+END

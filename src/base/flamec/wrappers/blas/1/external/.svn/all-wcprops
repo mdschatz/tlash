@@ -1,0 +1,149 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/93/trunk/src/base/flamec/wrappers/blas/1/external
+END
+FLA_Axpy_external.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/45/trunk/src/base/flamec/wrappers/blas/1/external/FLA_Axpy_external.c
+END
+FLA_Scal_external.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/45/trunk/src/base/flamec/wrappers/blas/1/external/FLA_Scal_external.c
+END
+FLA_Scalc_external.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/45/trunk/src/base/flamec/wrappers/blas/1/external/FLA_Scalc_external.c
+END
+FLA_Dot_external.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/45/trunk/src/base/flamec/wrappers/blas/1/external/FLA_Dot_external.c
+END
+FLA_Amax_external.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/45/trunk/src/base/flamec/wrappers/blas/1/external/FLA_Amax_external.c
+END
+FLA_Axpyrt_external.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/45/trunk/src/base/flamec/wrappers/blas/1/external/FLA_Axpyrt_external.c
+END
+FLA_Dotc_external.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/45/trunk/src/base/flamec/wrappers/blas/1/external/FLA_Dotc_external.c
+END
+FLA_Dot2s_external.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/45/trunk/src/base/flamec/wrappers/blas/1/external/FLA_Dot2s_external.c
+END
+FLA_Copyr_external.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/45/trunk/src/base/flamec/wrappers/blas/1/external/FLA_Copyr_external.c
+END
+FLA_Swapt_external.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/45/trunk/src/base/flamec/wrappers/blas/1/external/FLA_Swapt_external.c
+END
+FLA_Dot2cs_external.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/45/trunk/src/base/flamec/wrappers/blas/1/external/FLA_Dot2cs_external.c
+END
+FLA_Inv_scal_external.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/45/trunk/src/base/flamec/wrappers/blas/1/external/FLA_Inv_scal_external.c
+END
+FLA_Copyt_external.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/45/trunk/src/base/flamec/wrappers/blas/1/external/FLA_Copyt_external.c
+END
+FLA_Inv_scalc_external.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/45/trunk/src/base/flamec/wrappers/blas/1/external/FLA_Inv_scalc_external.c
+END
+FLA_Axpys_external.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/45/trunk/src/base/flamec/wrappers/blas/1/external/FLA_Axpys_external.c
+END
+FLA_Scalr_external.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/45/trunk/src/base/flamec/wrappers/blas/1/external/FLA_Scalr_external.c
+END
+FLA_Asum_external.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/45/trunk/src/base/flamec/wrappers/blas/1/external/FLA_Asum_external.c
+END
+FLA_Axpyt_external.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/45/trunk/src/base/flamec/wrappers/blas/1/external/FLA_Axpyt_external.c
+END
+FLA_Dots_external.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/45/trunk/src/base/flamec/wrappers/blas/1/external/FLA_Dots_external.c
+END
+FLA_Swap_external.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/45/trunk/src/base/flamec/wrappers/blas/1/external/FLA_Swap_external.c
+END
+FLA_Copy_external.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/45/trunk/src/base/flamec/wrappers/blas/1/external/FLA_Copy_external.c
+END
+FLA_Dotcs_external.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/45/trunk/src/base/flamec/wrappers/blas/1/external/FLA_Dotcs_external.c
+END
+FLA_Nrm2_external.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/45/trunk/src/base/flamec/wrappers/blas/1/external/FLA_Nrm2_external.c
+END
+FLA_Copyrt_external.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/45/trunk/src/base/flamec/wrappers/blas/1/external/FLA_Copyrt_external.c
+END

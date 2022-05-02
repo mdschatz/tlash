@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/93/trunk/src/base/flamec/control
+END
+FLA_Cntl_lapack.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/45/trunk/src/base/flamec/control/FLA_Cntl_lapack.c
+END
+FLA_Cntl_lapack.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/45/trunk/src/base/flamec/control/FLA_Cntl_lapack.h
+END
+FLA_Cntl.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/45/trunk/src/base/flamec/control/FLA_Cntl.c
+END
+FLA_Cntl_blas1.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/45/trunk/src/base/flamec/control/FLA_Cntl_blas1.c
+END
+FLA_Cntl_blas2.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/45/trunk/src/base/flamec/control/FLA_Cntl_blas2.c
+END
+FLA_Cntl_blas3.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/45/trunk/src/base/flamec/control/FLA_Cntl_blas3.c
+END
+FLA_Cntl.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/45/trunk/src/base/flamec/control/FLA_Cntl.h
+END
+FLA_Cntl_blas1.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/45/trunk/src/base/flamec/control/FLA_Cntl_blas1.h
+END
+FLA_Cntl_blas2.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/45/trunk/src/base/flamec/control/FLA_Cntl_blas2.h
+END
+FLA_Cntl_blas3.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/45/trunk/src/base/flamec/control/FLA_Cntl_blas3.h
+END

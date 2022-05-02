@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/45/trunk/src/blas/3/trmm/lun/flamec/test
+END
+REF_Trmm_lun.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/45/trunk/src/blas/3/trmm/lun/flamec/test/REF_Trmm_lun.c
+END
+time_Trmm_lun.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/45/trunk/src/blas/3/trmm/lun/flamec/test/time_Trmm_lun.c
+END
+test_Trmm_lun.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/45/trunk/src/blas/3/trmm/lun/flamec/test/test_Trmm_lun.c
+END
+makefile
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/45/trunk/src/blas/3/trmm/lun/flamec/test/makefile
+END
+input
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/45/trunk/src/blas/3/trmm/lun/flamec/test/input
+END

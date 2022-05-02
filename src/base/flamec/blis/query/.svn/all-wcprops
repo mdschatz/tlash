@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/93/trunk/src/base/flamec/blis/query
+END
+bli_does.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/45/trunk/src/base/flamec/blis/query/bli_does.c
+END
+bli_proj.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/45/trunk/src/base/flamec/blis/query/bli_proj.c
+END
+bli_is.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/45/trunk/src/base/flamec/blis/query/bli_is.c
+END
+bli_check.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/45/trunk/src/base/flamec/blis/query/bli_check.c
+END
+bli_vector.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/45/trunk/src/base/flamec/blis/query/bli_vector.c
+END

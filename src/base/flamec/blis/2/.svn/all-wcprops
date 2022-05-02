@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/93/trunk/src/base/flamec/blis/2
+END
+bli_trmvsx.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/45/trunk/src/base/flamec/blis/2/bli_trmvsx.c
+END
+bli_trmv.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/45/trunk/src/base/flamec/blis/2/bli_trmv.c
+END
+bli_trsvsx.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/45/trunk/src/base/flamec/blis/2/bli_trsvsx.c
+END
+bli_syr.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/45/trunk/src/base/flamec/blis/2/bli_syr.c
+END
+bli_ger.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/45/trunk/src/base/flamec/blis/2/bli_ger.c
+END
+bli_symv.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/45/trunk/src/base/flamec/blis/2/bli_symv.c
+END
+bli_her.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/45/trunk/src/base/flamec/blis/2/bli_her.c
+END
+bli_gemv.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/45/trunk/src/base/flamec/blis/2/bli_gemv.c
+END
+bli_trsv.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/45/trunk/src/base/flamec/blis/2/bli_trsv.c
+END
+bli_hemv.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/45/trunk/src/base/flamec/blis/2/bli_hemv.c
+END
+bli_syr2.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/45/trunk/src/base/flamec/blis/2/bli_syr2.c
+END
+bli_her2.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/45/trunk/src/base/flamec/blis/2/bli_her2.c
+END

@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/93/trunk/src/blas/3/syrk/lt/flamec
+END
+FLA_Syrk_lt_unb_var1.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/45/trunk/src/blas/3/syrk/lt/flamec/FLA_Syrk_lt_unb_var1.c
+END
+FLA_Syrk_lt_unb_var2.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/45/trunk/src/blas/3/syrk/lt/flamec/FLA_Syrk_lt_unb_var2.c
+END
+FLA_Syrk_lt_unb_var3.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/45/trunk/src/blas/3/syrk/lt/flamec/FLA_Syrk_lt_unb_var3.c
+END
+FLA_Syrk_lt_unb_var4.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/45/trunk/src/blas/3/syrk/lt/flamec/FLA_Syrk_lt_unb_var4.c
+END
+FLA_Syrk_lt_unb_var5.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/45/trunk/src/blas/3/syrk/lt/flamec/FLA_Syrk_lt_unb_var5.c
+END
+FLA_Syrk_lt_blk_var1.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/45/trunk/src/blas/3/syrk/lt/flamec/FLA_Syrk_lt_blk_var1.c
+END
+FLA_Syrk_lt_blk_var2.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/45/trunk/src/blas/3/syrk/lt/flamec/FLA_Syrk_lt_blk_var2.c
+END
+FLA_Syrk_lt_unb_var6.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/45/trunk/src/blas/3/syrk/lt/flamec/FLA_Syrk_lt_unb_var6.c
+END
+FLA_Syrk_lt_blk_var3.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/45/trunk/src/blas/3/syrk/lt/flamec/FLA_Syrk_lt_blk_var3.c
+END
+FLA_Syrk_lt_blk_var4.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/45/trunk/src/blas/3/syrk/lt/flamec/FLA_Syrk_lt_blk_var4.c
+END
+FLA_Syrk_lt.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/45/trunk/src/blas/3/syrk/lt/flamec/FLA_Syrk_lt.h
+END
+FLA_Syrk_lt_blk_var5.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/45/trunk/src/blas/3/syrk/lt/flamec/FLA_Syrk_lt_blk_var5.c
+END
+FLA_Syrk_lt_blk_var6.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/45/trunk/src/blas/3/syrk/lt/flamec/FLA_Syrk_lt_blk_var6.c
+END

@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/93/trunk/src/base/flamec/wrappers/blas/3/task
+END
+FLA_Trsm_task.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/45/trunk/src/base/flamec/wrappers/blas/3/task/FLA_Trsm_task.c
+END
+FLA_Gemm_task.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/45/trunk/src/base/flamec/wrappers/blas/3/task/FLA_Gemm_task.c
+END
+FLA_Symm_task.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/45/trunk/src/base/flamec/wrappers/blas/3/task/FLA_Symm_task.c
+END
+FLA_Hemm_task.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/45/trunk/src/base/flamec/wrappers/blas/3/task/FLA_Hemm_task.c
+END
+FLA_Syrk_task.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/45/trunk/src/base/flamec/wrappers/blas/3/task/FLA_Syrk_task.c
+END
+FLA_Herk_task.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/45/trunk/src/base/flamec/wrappers/blas/3/task/FLA_Herk_task.c
+END
+FLA_Syr2k_task.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/45/trunk/src/base/flamec/wrappers/blas/3/task/FLA_Syr2k_task.c
+END
+FLA_Her2k_task.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/45/trunk/src/base/flamec/wrappers/blas/3/task/FLA_Her2k_task.c
+END
+FLA_Trmm_task.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/45/trunk/src/base/flamec/wrappers/blas/3/task/FLA_Trmm_task.c
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/45/trunk/tmp/test/query_blocksizes
+END
+makefile
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/45/trunk/tmp/test/query_blocksizes/makefile
+END
+query_blocksizes.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/45/trunk/tmp/test/query_blocksizes/query_blocksizes.c
+END

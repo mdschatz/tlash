@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/45/trunk/windows/build/config
+END
+ignore_list
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/45/trunk/windows/build/config/ignore_list
+END
+leaf_list
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/45/trunk/windows/build/config/leaf_list
+END
+ignore_list.windows
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/45/trunk/windows/build/config/ignore_list.windows
+END

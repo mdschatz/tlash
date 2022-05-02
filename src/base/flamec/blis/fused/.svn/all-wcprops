@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/93/trunk/src/base/flamec/blis/fused
+END
+bli_axpyv2bdotaxpy.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/45/trunk/src/base/flamec/blis/fused/bli_axpyv2bdotaxpy.c
+END
+bli_axmyv2.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/45/trunk/src/base/flamec/blis/fused/bli_axmyv2.c
+END
+bli_dotaxpy.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/45/trunk/src/base/flamec/blis/fused/bli_dotaxpy.c
+END
+bli_dotv2axpyv2b.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/45/trunk/src/base/flamec/blis/fused/bli_dotv2axpyv2b.c
+END
+bli_axpyv2b.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/45/trunk/src/base/flamec/blis/fused/bli_axpyv2b.c
+END
+bli_axpyv3b.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/45/trunk/src/base/flamec/blis/fused/bli_axpyv3b.c
+END
+bli_dotaxmyv2.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/45/trunk/src/base/flamec/blis/fused/bli_dotaxmyv2.c
+END
+bli_dotsv2.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/45/trunk/src/base/flamec/blis/fused/bli_dotsv2.c
+END
+bli_dotsv3.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/45/trunk/src/base/flamec/blis/fused/bli_dotsv3.c
+END

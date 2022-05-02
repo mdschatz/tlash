@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/93/trunk/src/blas/1/axpyt/front/flamec
+END
+FLA_Axpyt.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/45/trunk/src/blas/1/axpyt/front/flamec/FLA_Axpyt.c
+END
+FLA_Axpyt_c.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/45/trunk/src/blas/1/axpyt/front/flamec/FLA_Axpyt_c.c
+END
+FLA_Axpyt_t.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/45/trunk/src/blas/1/axpyt/front/flamec/FLA_Axpyt_t.c
+END
+FLA_Axpyt.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/45/trunk/src/blas/1/axpyt/front/flamec/FLA_Axpyt.h
+END
+FLA_Axpyt_h.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/45/trunk/src/blas/1/axpyt/front/flamec/FLA_Axpyt_h.c
+END
+FLASH_Axpyt.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/45/trunk/src/blas/1/axpyt/front/flamec/FLASH_Axpyt.c
+END
+FLA_Axpyt_internal.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/45/trunk/src/blas/1/axpyt/front/flamec/FLA_Axpyt_internal.c
+END
+FLA_Axpyt_n.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/45/trunk/src/blas/1/axpyt/front/flamec/FLA_Axpyt_n.c
+END

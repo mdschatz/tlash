@@ -1,0 +1,347 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/93/trunk/src/base/flamec/check/base/util
+END
+FLA_Fill_with_linear_dist_check.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/45/trunk/src/base/flamec/check/base/util/FLA_Fill_with_linear_dist_check.c
+END
+FLA_Absolute_square_check.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/45/trunk/src/base/flamec/check/base/util/FLA_Absolute_square_check.c
+END
+FLA_Fill_with_inverse_dist_check.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/45/trunk/src/base/flamec/check/base/util/FLA_Fill_with_inverse_dist_check.c
+END
+FLA_Conjugate_r_check.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/45/trunk/src/base/flamec/check/base/util/FLA_Conjugate_r_check.c
+END
+FLA_Fill_with_geometric_dist_check.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/45/trunk/src/base/flamec/check/base/util/FLA_Fill_with_geometric_dist_check.c
+END
+FLA_Negate_check.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/45/trunk/src/base/flamec/check/base/util/FLA_Negate_check.c
+END
+FLA_Random_matrix_check.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/45/trunk/src/base/flamec/check/base/util/FLA_Random_matrix_check.c
+END
+FLA_Fill_with_random_dist_check.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/45/trunk/src/base/flamec/check/base/util/FLA_Fill_with_random_dist_check.c
+END
+FLA_Fill_with_cluster_dist_check.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/45/trunk/src/base/flamec/check/base/util/FLA_Fill_with_cluster_dist_check.c
+END
+FLA_Max_abs_value_check.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/45/trunk/src/base/flamec/check/base/util/FLA_Max_abs_value_check.c
+END
+FLA_Set_to_identity_check.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/45/trunk/src/base/flamec/check/base/util/FLA_Set_to_identity_check.c
+END
+FLA_Househ2s_UT_check.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/45/trunk/src/base/flamec/check/base/util/FLA_Househ2s_UT_check.c
+END
+FLA_Random_symm_matrix_check.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/45/trunk/src/base/flamec/check/base/util/FLA_Random_symm_matrix_check.c
+END
+FLA_Introduce_bulge_check.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/45/trunk/src/base/flamec/check/base/util/FLA_Introduce_bulge_check.c
+END
+FLA_Random_spd_matrix_check.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/45/trunk/src/base/flamec/check/base/util/FLA_Random_spd_matrix_check.c
+END
+FLA_Form_perm_matrix_check.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/45/trunk/src/base/flamec/check/base/util/FLA_Form_perm_matrix_check.c
+END
+FLA_Scal_elemwise_check.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/45/trunk/src/base/flamec/check/base/util/FLA_Scal_elemwise_check.c
+END
+FLA_Setr_check.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/45/trunk/src/base/flamec/check/base/util/FLA_Setr_check.c
+END
+FLA_Add_to_diag_check.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/45/trunk/src/base/flamec/check/base/util/FLA_Add_to_diag_check.c
+END
+FLA_Transpose_check.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/45/trunk/src/base/flamec/check/base/util/FLA_Transpose_check.c
+END
+FLA_Househ3UD_UT_check.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/45/trunk/src/base/flamec/check/base/util/FLA_Househ3UD_UT_check.c
+END
+FLA_Conjugate_check.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/45/trunk/src/base/flamec/check/base/util/FLA_Conjugate_check.c
+END
+FLA_Triangularize_check.c
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/45/trunk/src/base/flamec/check/base/util/FLA_Triangularize_check.c
+END
+FLA_Max_abs_value_herm_check.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/45/trunk/src/base/flamec/check/base/util/FLA_Max_abs_value_herm_check.c
+END
+FLA_Apply_G_mx2_check.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/45/trunk/src/base/flamec/check/base/util/FLA_Apply_G_mx2_check.c
+END
+FLA_Random_tri_matrix_check.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/45/trunk/src/base/flamec/check/base/util/FLA_Random_tri_matrix_check.c
+END
+FLA_Househ2_UT_check.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/45/trunk/src/base/flamec/check/base/util/FLA_Househ2_UT_check.c
+END
+FLA_Sort_evd_check.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/45/trunk/src/base/flamec/check/base/util/FLA_Sort_evd_check.c
+END
+FLA_Apply_G_1x2_check.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/45/trunk/src/base/flamec/check/base/util/FLA_Apply_G_1x2_check.c
+END
+FLA_Apply_GTG_check.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/45/trunk/src/base/flamec/check/base/util/FLA_Apply_GTG_check.c
+END
+FLA_Sort_check.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/45/trunk/src/base/flamec/check/base/util/FLA_Sort_check.c
+END
+FLA_Inv_scal_elemwise_check.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/45/trunk/src/base/flamec/check/base/util/FLA_Inv_scal_elemwise_check.c
+END
+FLA_Sqrt_check.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/45/trunk/src/base/flamec/check/base/util/FLA_Sqrt_check.c
+END
+FLA_Shift_diag_check.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/45/trunk/src/base/flamec/check/base/util/FLA_Shift_diag_check.c
+END
+FLA_Sort_svd_check.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/45/trunk/src/base/flamec/check/base/util/FLA_Sort_svd_check.c
+END
+FLA_Invert_check.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/45/trunk/src/base/flamec/check/base/util/FLA_Invert_check.c
+END
+FLA_Norm_inf_check.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/45/trunk/src/base/flamec/check/base/util/FLA_Norm_inf_check.c
+END
+FLA_Max_elemwise_diff_check.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/45/trunk/src/base/flamec/check/base/util/FLA_Max_elemwise_diff_check.c
+END
+FLA_Wilkshift_tridiag_check.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/45/trunk/src/base/flamec/check/base/util/FLA_Wilkshift_tridiag_check.c
+END
+FLA_Symmetrize_check.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/45/trunk/src/base/flamec/check/base/util/FLA_Symmetrize_check.c
+END
+FLA_Pow.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/45/trunk/src/base/flamec/check/base/util/FLA_Pow.c
+END
+FLA_LU_find_zero_on_diagonal_check.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/45/trunk/src/base/flamec/check/base/util/FLA_LU_find_zero_on_diagonal_check.c
+END
+FLA_Absolute_value_check.c
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/45/trunk/src/base/flamec/check/base/util/FLA_Absolute_value_check.c
+END
+FLA_Scale_diag_check.c
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/45/trunk/src/base/flamec/check/base/util/FLA_Scale_diag_check.c
+END
+FLA_Givens1_check.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/45/trunk/src/base/flamec/check/base/util/FLA_Givens1_check.c
+END
+FLA_Givens2_check.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/45/trunk/src/base/flamec/check/base/util/FLA_Givens2_check.c
+END
+FLA_Random_unitary_matrix_check.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/45/trunk/src/base/flamec/check/base/util/FLA_Random_unitary_matrix_check.c
+END
+FLA_Set_diag_check.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/45/trunk/src/base/flamec/check/base/util/FLA_Set_diag_check.c
+END
+FLA_Random_herm_matrix_check.c
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/45/trunk/src/base/flamec/check/base/util/FLA_Random_herm_matrix_check.c
+END
+FLA_Norm_frob_check.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/45/trunk/src/base/flamec/check/base/util/FLA_Norm_frob_check.c
+END
+FLA_Shift_pivots_to_check.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/45/trunk/src/base/flamec/check/base/util/FLA_Shift_pivots_to_check.c
+END
+FLA_Fill_with_logarithmic_dist_check.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/45/trunk/src/base/flamec/check/base/util/FLA_Fill_with_logarithmic_dist_check.c
+END
+FLA_Hermitianize_check.c
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/45/trunk/src/base/flamec/check/base/util/FLA_Hermitianize_check.c
+END
+FLA_Mult_add_check.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/45/trunk/src/base/flamec/check/base/util/FLA_Mult_add_check.c
+END
+FLA_Apply_G_check.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/45/trunk/src/base/flamec/check/base/util/FLA_Apply_G_check.c
+END
+FLA_Set_check.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/45/trunk/src/base/flamec/check/base/util/FLA_Set_check.c
+END
+FLA_Norm1_check.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/45/trunk/src/base/flamec/check/base/util/FLA_Norm1_check.c
+END

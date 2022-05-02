@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/45/trunk/src/blas/3/herk/lh/flamec/test
+END
+makefile
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/45/trunk/src/blas/3/herk/lh/flamec/test/makefile
+END
+input
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/45/trunk/src/blas/3/herk/lh/flamec/test/input
+END
+REF_Herk_lh.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/45/trunk/src/blas/3/herk/lh/flamec/test/REF_Herk_lh.c
+END
+time_Herk_lh.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/45/trunk/src/blas/3/herk/lh/flamec/test/time_Herk_lh.c
+END
+test_Herk_lh.c
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/45/trunk/src/blas/3/herk/lh/flamec/test/test_Herk_lh.c
+END

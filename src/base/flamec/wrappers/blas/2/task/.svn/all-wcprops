@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/93/trunk/src/base/flamec/wrappers/blas/2/task
+END
+FLA_Gemv_task.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/45/trunk/src/base/flamec/wrappers/blas/2/task/FLA_Gemv_task.c
+END
+FLA_Trsv_task.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/45/trunk/src/base/flamec/wrappers/blas/2/task/FLA_Trsv_task.c
+END

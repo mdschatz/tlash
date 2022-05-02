@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/93/trunk/src/base/flamec/wrappers/blas/1/front
+END
+FLA_Axpys.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/45/trunk/src/base/flamec/wrappers/blas/1/front/FLA_Axpys.c
+END
+FLA_Asum.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/45/trunk/src/base/flamec/wrappers/blas/1/front/FLA_Asum.c
+END
+FLA_Dots.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/45/trunk/src/base/flamec/wrappers/blas/1/front/FLA_Dots.c
+END
+FLA_Swap.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/45/trunk/src/base/flamec/wrappers/blas/1/front/FLA_Swap.c
+END
+FLA_Dotcs.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/45/trunk/src/base/flamec/wrappers/blas/1/front/FLA_Dotcs.c
+END
+FLA_Nrm2.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/45/trunk/src/base/flamec/wrappers/blas/1/front/FLA_Nrm2.c
+END
+FLA_Copyrt.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/45/trunk/src/base/flamec/wrappers/blas/1/front/FLA_Copyrt.c
+END
+FLA_Scalc.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/45/trunk/src/base/flamec/wrappers/blas/1/front/FLA_Scalc.c
+END
+FLA_Amax.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/45/trunk/src/base/flamec/wrappers/blas/1/front/FLA_Amax.c
+END
+FLA_Dot.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/45/trunk/src/base/flamec/wrappers/blas/1/front/FLA_Dot.c
+END
+FLA_Axpyrt.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/45/trunk/src/base/flamec/wrappers/blas/1/front/FLA_Axpyrt.c
+END
+FLA_Dotc.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/45/trunk/src/base/flamec/wrappers/blas/1/front/FLA_Dotc.c
+END
+FLA_Dot2s.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/45/trunk/src/base/flamec/wrappers/blas/1/front/FLA_Dot2s.c
+END
+FLA_Swapt.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/45/trunk/src/base/flamec/wrappers/blas/1/front/FLA_Swapt.c
+END
+FLA_Dot2cs.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/45/trunk/src/base/flamec/wrappers/blas/1/front/FLA_Dot2cs.c
+END
+FLA_Inv_scal.c
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/45/trunk/src/base/flamec/wrappers/blas/1/front/FLA_Inv_scal.c
+END
+FLA_Inv_scalc.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/45/trunk/src/base/flamec/wrappers/blas/1/front/FLA_Inv_scalc.c
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/45/trunk/src/blas/3/trsm/rut/flamec/test
+END
+REF_Trsm_rut.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/45/trunk/src/blas/3/trsm/rut/flamec/test/REF_Trsm_rut.c
+END
+makefile
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/45/trunk/src/blas/3/trsm/rut/flamec/test/makefile
+END
+time_Trsm_rut.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/45/trunk/src/blas/3/trsm/rut/flamec/test/time_Trsm_rut.c
+END
+input
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/45/trunk/src/blas/3/trsm/rut/flamec/test/input
+END
+test_Trsm_rut.c
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/45/trunk/src/blas/3/trsm/rut/flamec/test/test_Trsm_rut.c
+END

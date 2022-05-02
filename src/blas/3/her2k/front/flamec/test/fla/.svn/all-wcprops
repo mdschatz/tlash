@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/45/trunk/src/blas/3/her2k/front/flamec/test/fla
+END
+REF_Her2k.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/45/trunk/src/blas/3/her2k/front/flamec/test/fla/REF_Her2k.c
+END
+time_Her2k.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/45/trunk/src/blas/3/her2k/front/flamec/test/fla/time_Her2k.c
+END
+test_Her2k.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/45/trunk/src/blas/3/her2k/front/flamec/test/fla/test_Her2k.c
+END
+makefile
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/45/trunk/src/blas/3/her2k/front/flamec/test/fla/makefile
+END
+input
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/45/trunk/src/blas/3/her2k/front/flamec/test/fla/input
+END

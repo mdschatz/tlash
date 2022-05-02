@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/92/trunk/windows/build
+END
+libflame-symbols.def
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/45/trunk/windows/build/libflame-symbols.def
+END
+config.mk.in
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/45/trunk/windows/build/config.mk.in
+END
+gen-config-file.py
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/45/trunk/windows/build/gen-config-file.py
+END
+gen-check-rev-file.py
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/45/trunk/windows/build/gen-check-rev-file.py
+END
+gather-src-for-windows.py
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/45/trunk/windows/build/gather-src-for-windows.py
+END
+nmake-help.cmd
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/45/trunk/windows/build/nmake-help.cmd
+END
+defs.mk
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/45/trunk/windows/build/defs.mk
+END
+FLA_config.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/92/trunk/windows/build/FLA_config.h
+END

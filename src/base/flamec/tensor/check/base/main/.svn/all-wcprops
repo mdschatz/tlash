@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/93/trunk/src/base/flamec/tensor/check/base/main
+END
+FLA_Part_1xmode2_check.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/73/trunk/src/base/flamec/tensor/check/base/main/FLA_Part_1xmode2_check.c
+END
+FLA_Repart_1xmode2_to_1xmode3_check.c
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/73/trunk/src/base/flamec/tensor/check/base/main/FLA_Repart_1xmode2_to_1xmode3_check.c
+END
+FLA_Obj_create_blocked_sym_tensor_without_buffer_check.c
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/92/trunk/src/base/flamec/tensor/check/base/main/FLA_Obj_create_blocked_sym_tensor_without_buffer_check.c
+END
+FLA_Merge_1xmode2_check.c
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/73/trunk/src/base/flamec/tensor/check/base/main/FLA_Merge_1xmode2_check.c
+END
+FLA_Cont_with_1xmode3_to_1xmode2_check.c
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/73/trunk/src/base/flamec/tensor/check/base/main/FLA_Cont_with_1xmode3_to_1xmode2_check.c
+END

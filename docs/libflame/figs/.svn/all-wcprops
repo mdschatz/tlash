@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/45/trunk/docs/libflame/figs
+END
+40-lapack2flame-indirect.tex
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/45/trunk/docs/libflame/figs/40-lapack2flame-indirect.tex
+END
+40-lapack2flame.tex
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/45/trunk/docs/libflame/figs/40-lapack2flame.tex
+END
+10-flame-lapack-code.tex
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/45/trunk/docs/libflame/figs/10-flame-lapack-code.tex
+END
+10-chol-alg.tex
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/45/trunk/docs/libflame/figs/10-chol-alg.tex
+END
+23-make-targets.tex
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/45/trunk/docs/libflame/figs/23-make-targets.tex
+END
+40-types-and-const-values.tex
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/45/trunk/docs/libflame/figs/40-types-and-const-values.tex
+END
+25-configure-arguments.tex
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/45/trunk/docs/libflame/figs/25-configure-arguments.tex
+END
+50-cntl-internal-back-ends.tex
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/45/trunk/docs/libflame/figs/50-cntl-internal-back-ends.tex
+END
+50-cntl-init.tex
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/45/trunk/docs/libflame/figs/50-cntl-init.tex
+END
+50-cntl-tree-structs.tex
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/45/trunk/docs/libflame/figs/50-cntl-tree-structs.tex
+END
+25-top-level-win-files.tex
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/45/trunk/docs/libflame/figs/25-top-level-win-files.tex
+END
+25-nmake-targets.tex
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/45/trunk/docs/libflame/figs/25-nmake-targets.tex
+END
+50-noncntl-cntl-chol-code.tex
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/45/trunk/docs/libflame/figs/50-noncntl-cntl-chol-code.tex
+END
+25-library-files.tex
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/45/trunk/docs/libflame/figs/25-library-files.tex
+END
+23-top-level-files.tex
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/45/trunk/docs/libflame/figs/23-top-level-files.tex
+END
+10-chol-perf.tex
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/45/trunk/docs/libflame/figs/10-chol-perf.tex
+END
+23-tool-env-vars.tex
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/45/trunk/docs/libflame/figs/23-tool-env-vars.tex
+END
+50-cntl-front-ends.tex
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/45/trunk/docs/libflame/figs/50-cntl-front-ends.tex
+END
+23-search-order.tex
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/45/trunk/docs/libflame/figs/23-search-order.tex
+END

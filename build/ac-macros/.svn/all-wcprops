@@ -1,0 +1,365 @@
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/45/trunk/build/ac-macros
+END
+fla_require_static_or_dynamic_build.m4
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/45/trunk/build/ac-macros/fla_require_static_or_dynamic_build.m4
+END
+fla_check_enable_memory_leak_counter.m4
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/45/trunk/build/ac-macros/fla_check_enable_memory_leak_counter.m4
+END
+fla_ac_init.m4
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/45/trunk/build/ac-macros/fla_ac_init.m4
+END
+fla_check_enable_default_k_blocksize.m4
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/45/trunk/build/ac-macros/fla_check_enable_default_k_blocksize.m4
+END
+fla_check_enable_default_m_blocksize.m4
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/45/trunk/build/ac-macros/fla_check_enable_default_m_blocksize.m4
+END
+fla_check_enable_static_build.m4
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/45/trunk/build/ac-macros/fla_check_enable_static_build.m4
+END
+fla_check_enable_memory_alignment.m4
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/45/trunk/build/ac-macros/fla_check_enable_memory_alignment.m4
+END
+fla_set_c_lang_flags.m4
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/45/trunk/build/ac-macros/fla_set_c_lang_flags.m4
+END
+fla_observe_host_cpu_type.m4
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/45/trunk/build/ac-macros/fla_observe_host_cpu_type.m4
+END
+fla_check_enable_vector_intrinsics.m4
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/45/trunk/build/ac-macros/fla_check_enable_vector_intrinsics.m4
+END
+fla_check_enable_builtin_blas.m4
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/45/trunk/build/ac-macros/fla_check_enable_builtin_blas.m4
+END
+fla_check_enable_portable_timer.m4
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/45/trunk/build/ac-macros/fla_check_enable_portable_timer.m4
+END
+fla_check_enable_optimizations.m4
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/45/trunk/build/ac-macros/fla_check_enable_optimizations.m4
+END
+fla_check_enable_goto_interfaces.m4
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/45/trunk/build/ac-macros/fla_check_enable_goto_interfaces.m4
+END
+fla_require_cc.m4
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/45/trunk/build/ac-macros/fla_require_cc.m4
+END
+fla_require_gnu_make.m4
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/45/trunk/build/ac-macros/fla_require_gnu_make.m4
+END
+fla_check_enable_autodetect_f77_ldflags.m4
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/45/trunk/build/ac-macros/fla_check_enable_autodetect_f77_ldflags.m4
+END
+fla_set_c_sse_flags.m4
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/45/trunk/build/ac-macros/fla_set_c_sse_flags.m4
+END
+fla_check_enable_lapack2flame.m4
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/45/trunk/build/ac-macros/fla_check_enable_lapack2flame.m4
+END
+fla_check_enable_ldim_alignment.m4
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/45/trunk/build/ac-macros/fla_check_enable_ldim_alignment.m4
+END
+fla_check_enable_tidsp.m4
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/45/trunk/build/ac-macros/fla_check_enable_tidsp.m4
+END
+fla_check_enable_blas3_front_end_cntl_trees.m4
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/45/trunk/build/ac-macros/fla_check_enable_blas3_front_end_cntl_trees.m4
+END
+fla_check_enable_debug.m4
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/45/trunk/build/ac-macros/fla_check_enable_debug.m4
+END
+fla_require_supermatrix_enabled.m4
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/45/trunk/build/ac-macros/fla_require_supermatrix_enabled.m4
+END
+fla_check_with_ar.m4
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/45/trunk/build/ac-macros/fla_check_with_ar.m4
+END
+fla_check_with_extra_cflags.m4
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/45/trunk/build/ac-macros/fla_check_with_extra_cflags.m4
+END
+fla_set_c_warning_flags.m4
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/45/trunk/build/ac-macros/fla_set_c_warning_flags.m4
+END
+fla_check_with_ranlib.m4
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/45/trunk/build/ac-macros/fla_check_with_ranlib.m4
+END
+fla_set_c_prof_flags.m4
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/45/trunk/build/ac-macros/fla_set_c_prof_flags.m4
+END
+fla_check_enable_dynamic_build.m4
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/45/trunk/build/ac-macros/fla_check_enable_dynamic_build.m4
+END
+fla_check_enable_default_n_blocksize.m4
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/45/trunk/build/ac-macros/fla_check_enable_default_n_blocksize.m4
+END
+fla_check_enable_scc.m4
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/45/trunk/build/ac-macros/fla_check_enable_scc.m4
+END
+fla_check_enable_windows_build.m4
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/45/trunk/build/ac-macros/fla_check_enable_windows_build.m4
+END
+fla_require_find.m4
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/45/trunk/build/ac-macros/fla_require_find.m4
+END
+fla_check_with_cc.m4
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/45/trunk/build/ac-macros/fla_check_with_cc.m4
+END
+fla_set_c_debug_flags.m4
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/45/trunk/build/ac-macros/fla_set_c_debug_flags.m4
+END
+fla_require_no_lapack_namespace_conflict.m4
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/45/trunk/build/ac-macros/fla_require_no_lapack_namespace_conflict.m4
+END
+fla_require_xargs.m4
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/45/trunk/build/ac-macros/fla_require_xargs.m4
+END
+fla_require_gnu_bash.m4
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/45/trunk/build/ac-macros/fla_require_gnu_bash.m4
+END
+fla_check_enable_multithreading.m4
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/45/trunk/build/ac-macros/fla_check_enable_multithreading.m4
+END
+fla_check_enable_internal_error_checking.m4
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/45/trunk/build/ac-macros/fla_check_enable_internal_error_checking.m4
+END
+fla_check_enable_external_lapack_for_subproblems.m4
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/45/trunk/build/ac-macros/fla_check_enable_external_lapack_for_subproblems.m4
+END
+fla_check_enable_verbose_make_output.m4
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/45/trunk/build/ac-macros/fla_check_enable_verbose_make_output.m4
+END
+fla_check_enable_supermatrix.m4
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/45/trunk/build/ac-macros/fla_check_enable_supermatrix.m4
+END
+fla_set_c_openmp_flags.m4
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/45/trunk/build/ac-macros/fla_set_c_openmp_flags.m4
+END
+fla_require_gnu_bash_version.m4
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/45/trunk/build/ac-macros/fla_require_gnu_bash_version.m4
+END
+fla_check_enable_cblas_interfaces.m4
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/45/trunk/build/ac-macros/fla_check_enable_cblas_interfaces.m4
+END
+fla_check_enable_warnings.m4
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/45/trunk/build/ac-macros/fla_check_enable_warnings.m4
+END
+fla_set_c_opt_flags.m4
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/45/trunk/build/ac-macros/fla_set_c_opt_flags.m4
+END
+fla_check_enable_profiling.m4
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/45/trunk/build/ac-macros/fla_check_enable_profiling.m4
+END
+fla_check_enable_gpu.m4
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/45/trunk/build/ac-macros/fla_check_enable_gpu.m4
+END
+fla_require_ar.m4
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/45/trunk/build/ac-macros/fla_require_ar.m4
+END
+fla_check_enable_non_critical_code.m4
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/45/trunk/build/ac-macros/fla_check_enable_non_critical_code.m4
+END
+fla_check_enable_max_arg_list_hack.m4
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/45/trunk/build/ac-macros/fla_check_enable_max_arg_list_hack.m4
+END
+fla_require_ranlib.m4
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/45/trunk/build/ac-macros/fla_require_ranlib.m4
+END
+fla_check_enable_autodetect_f77_name_mangling.m4
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/45/trunk/build/ac-macros/fla_check_enable_autodetect_f77_name_mangling.m4
+END
+fla_check_enable_external_lapack_interfaces.m4
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/45/trunk/build/ac-macros/fla_check_enable_external_lapack_interfaces.m4
+END
+fla_set_c_preproc_flags.m4
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/45/trunk/build/ac-macros/fla_set_c_preproc_flags.m4
+END
+fla_observe_f77_name_mangling.m4
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/45/trunk/build/ac-macros/fla_observe_f77_name_mangling.m4
+END
+fla_check_enable_blis_use_of_fla_malloc.m4
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/45/trunk/build/ac-macros/fla_check_enable_blis_use_of_fla_malloc.m4
+END

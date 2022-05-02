@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 27
+/svn/!svn/ver/94/trunk/test
+END
+build.sh
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/85/trunk/test/build.sh
+END
+input.global.general
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/45/trunk/test/input.global.general
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/94/trunk/test/Makefile
+END
+input.global.operations
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/45/trunk/test/input.global.operations
+END

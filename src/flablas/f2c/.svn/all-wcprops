@@ -1,0 +1,1811 @@
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/93/trunk/src/flablas/f2c
+END
+ctbmv.f
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/45/trunk/src/flablas/f2c/ctbmv.f
+END
+zsymm.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/45/trunk/src/flablas/f2c/zsymm.c
+END
+isamax.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/45/trunk/src/flablas/f2c/isamax.c
+END
+zsymm.f
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/45/trunk/src/flablas/f2c/zsymm.f
+END
+isamax.f
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/45/trunk/src/flablas/f2c/isamax.f
+END
+regen-files.sh
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/45/trunk/src/flablas/f2c/regen-files.sh
+END
+ctrsm.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/45/trunk/src/flablas/f2c/ctrsm.c
+END
+csyrk.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/45/trunk/src/flablas/f2c/csyrk.c
+END
+ctrsm.f
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/45/trunk/src/flablas/f2c/ctrsm.f
+END
+ctrmv.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/45/trunk/src/flablas/f2c/ctrmv.c
+END
+stbmv.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/45/trunk/src/flablas/f2c/stbmv.c
+END
+stbmv.f
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/45/trunk/src/flablas/f2c/stbmv.f
+END
+ctrmv.f
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/45/trunk/src/flablas/f2c/ctrmv.f
+END
+csyrk.f
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/45/trunk/src/flablas/f2c/csyrk.f
+END
+dtpsv.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/45/trunk/src/flablas/f2c/dtpsv.c
+END
+dgemv.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/45/trunk/src/flablas/f2c/dgemv.c
+END
+fix-rvals.sh
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/45/trunk/src/flablas/f2c/fix-rvals.sh
+END
+dtpsv.f
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/45/trunk/src/flablas/f2c/dtpsv.f
+END
+dgemv.f
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/45/trunk/src/flablas/f2c/dgemv.f
+END
+strsm.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/45/trunk/src/flablas/f2c/strsm.c
+END
+dasum.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/45/trunk/src/flablas/f2c/dasum.c
+END
+strmv.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/45/trunk/src/flablas/f2c/strmv.c
+END
+ssyrk.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/45/trunk/src/flablas/f2c/ssyrk.c
+END
+dsbmv.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/45/trunk/src/flablas/f2c/dsbmv.c
+END
+strsm.f
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/45/trunk/src/flablas/f2c/strsm.f
+END
+zscal.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/45/trunk/src/flablas/f2c/zscal.c
+END
+dasum.f
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/45/trunk/src/flablas/f2c/dasum.f
+END
+dsyr2k.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/45/trunk/src/flablas/f2c/dsyr2k.c
+END
+crotg.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/45/trunk/src/flablas/f2c/crotg.c
+END
+strmv.f
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/45/trunk/src/flablas/f2c/strmv.f
+END
+dsbmv.f
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/45/trunk/src/flablas/f2c/dsbmv.f
+END
+ssyrk.f
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/45/trunk/src/flablas/f2c/ssyrk.f
+END
+chpr2.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/45/trunk/src/flablas/f2c/chpr2.c
+END
+zscal.f
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/45/trunk/src/flablas/f2c/zscal.f
+END
+dsyr2k.f
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/45/trunk/src/flablas/f2c/dsyr2k.f
+END
+chpr2.f
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/45/trunk/src/flablas/f2c/chpr2.f
+END
+crotg.f
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/45/trunk/src/flablas/f2c/crotg.f
+END
+zhpr.c
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/45/trunk/src/flablas/f2c/zhpr.c
+END
+zhpr.f
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/45/trunk/src/flablas/f2c/zhpr.f
+END
+srotg.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/45/trunk/src/flablas/f2c/srotg.c
+END
+srotg.f
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/45/trunk/src/flablas/f2c/srotg.f
+END
+scnrm2.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/45/trunk/src/flablas/f2c/scnrm2.c
+END
+zdotu.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/45/trunk/src/flablas/f2c/zdotu.c
+END
+scnrm2.f
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/45/trunk/src/flablas/f2c/scnrm2.f
+END
+zdotu.f
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/45/trunk/src/flablas/f2c/zdotu.f
+END
+ctbsv.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/45/trunk/src/flablas/f2c/ctbsv.c
+END
+ctbsv.f
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/45/trunk/src/flablas/f2c/ctbsv.f
+END
+zgeru.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/45/trunk/src/flablas/f2c/zgeru.c
+END
+cdotc.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/45/trunk/src/flablas/f2c/cdotc.c
+END
+zgeru.f
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/45/trunk/src/flablas/f2c/zgeru.f
+END
+cdotc.f
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/45/trunk/src/flablas/f2c/cdotc.f
+END
+stbsv.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/45/trunk/src/flablas/f2c/stbsv.c
+END
+ctrsv.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/45/trunk/src/flablas/f2c/ctrsv.c
+END
+dsyr2.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/45/trunk/src/flablas/f2c/dsyr2.c
+END
+ctrsv.f
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/45/trunk/src/flablas/f2c/ctrsv.f
+END
+stbsv.f
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/45/trunk/src/flablas/f2c/stbsv.f
+END
+dsyr2.f
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/45/trunk/src/flablas/f2c/dsyr2.f
+END
+zaxpy.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/45/trunk/src/flablas/f2c/zaxpy.c
+END
+dznrm2.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/45/trunk/src/flablas/f2c/dznrm2.c
+END
+zaxpy.f
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/45/trunk/src/flablas/f2c/zaxpy.f
+END
+cher2k.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/45/trunk/src/flablas/f2c/cher2k.c
+END
+zgemm.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/45/trunk/src/flablas/f2c/zgemm.c
+END
+dznrm2.f
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/45/trunk/src/flablas/f2c/dznrm2.f
+END
+ztpmv.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/45/trunk/src/flablas/f2c/ztpmv.c
+END
+strsv.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/45/trunk/src/flablas/f2c/strsv.c
+END
+cher2k.f
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/45/trunk/src/flablas/f2c/cher2k.f
+END
+zgemm.f
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/45/trunk/src/flablas/f2c/zgemm.f
+END
+ztpmv.f
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/45/trunk/src/flablas/f2c/ztpmv.f
+END
+cgerc.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/45/trunk/src/flablas/f2c/cgerc.c
+END
+zherk.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/45/trunk/src/flablas/f2c/zherk.c
+END
+strsv.f
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/45/trunk/src/flablas/f2c/strsv.f
+END
+drotm.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/45/trunk/src/flablas/f2c/drotm.c
+END
+zherk.f
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/45/trunk/src/flablas/f2c/zherk.f
+END
+cgerc.f
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/45/trunk/src/flablas/f2c/cgerc.f
+END
+drotm.f
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/45/trunk/src/flablas/f2c/drotm.f
+END
+ddot.c
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/45/trunk/src/flablas/f2c/ddot.c
+END
+ddot.f
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/45/trunk/src/flablas/f2c/ddot.f
+END
+chbmv.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/45/trunk/src/flablas/f2c/chbmv.c
+END
+chbmv.f
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/45/trunk/src/flablas/f2c/chbmv.f
+END
+sspmv.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/45/trunk/src/flablas/f2c/sspmv.c
+END
+sspmv.f
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/45/trunk/src/flablas/f2c/sspmv.f
+END
+dcopy.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/45/trunk/src/flablas/f2c/dcopy.c
+END
+dcopy.f
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/45/trunk/src/flablas/f2c/dcopy.f
+END
+dtrmm.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/45/trunk/src/flablas/f2c/dtrmm.c
+END
+dtrmm.f
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/45/trunk/src/flablas/f2c/dtrmm.f
+END
+scasum.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/45/trunk/src/flablas/f2c/scasum.c
+END
+scasum.f
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/45/trunk/src/flablas/f2c/scasum.f
+END
+dgbmv.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/45/trunk/src/flablas/f2c/dgbmv.c
+END
+sdsdot.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/45/trunk/src/flablas/f2c/sdsdot.c
+END
+dgbmv.f
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/45/trunk/src/flablas/f2c/dgbmv.f
+END
+cher2.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/45/trunk/src/flablas/f2c/cher2.c
+END
+sdsdot.f
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/45/trunk/src/flablas/f2c/sdsdot.f
+END
+zher2k.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/45/trunk/src/flablas/f2c/zher2k.c
+END
+cher2.f
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/45/trunk/src/flablas/f2c/cher2.f
+END
+zher2k.f
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/45/trunk/src/flablas/f2c/zher2k.f
+END
+srotmg.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/45/trunk/src/flablas/f2c/srotmg.c
+END
+dswap.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/45/trunk/src/flablas/f2c/dswap.c
+END
+srotmg.f
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/45/trunk/src/flablas/f2c/srotmg.f
+END
+dswap.f
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/45/trunk/src/flablas/f2c/dswap.f
+END
+ztpsv.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/45/trunk/src/flablas/f2c/ztpsv.c
+END
+zgemv.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/45/trunk/src/flablas/f2c/zgemv.c
+END
+csymm.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/45/trunk/src/flablas/f2c/csymm.c
+END
+ztpsv.f
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/45/trunk/src/flablas/f2c/ztpsv.f
+END
+csymm.f
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/45/trunk/src/flablas/f2c/csymm.f
+END
+zgemv.f
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/45/trunk/src/flablas/f2c/zgemv.f
+END
+ssyr.c
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/45/trunk/src/flablas/f2c/ssyr.c
+END
+ssyr.f
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/45/trunk/src/flablas/f2c/ssyr.f
+END
+idamax.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/45/trunk/src/flablas/f2c/idamax.c
+END
+dzasum.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/45/trunk/src/flablas/f2c/dzasum.c
+END
+dzasum.f
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/45/trunk/src/flablas/f2c/dzasum.f
+END
+idamax.f
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/45/trunk/src/flablas/f2c/idamax.f
+END
+ssymm.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/45/trunk/src/flablas/f2c/ssymm.c
+END
+ssymm.f
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/45/trunk/src/flablas/f2c/ssymm.f
+END
+dtbmv.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/45/trunk/src/flablas/f2c/dtbmv.c
+END
+dtbmv.f
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/45/trunk/src/flablas/f2c/dtbmv.f
+END
+cscal.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/45/trunk/src/flablas/f2c/cscal.c
+END
+cscal.f
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/45/trunk/src/flablas/f2c/cscal.f
+END
+dtrsm.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/45/trunk/src/flablas/f2c/dtrsm.c
+END
+dsyrk.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/45/trunk/src/flablas/f2c/dsyrk.c
+END
+dtrmv.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/45/trunk/src/flablas/f2c/dtrmv.c
+END
+dtrsm.f
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/45/trunk/src/flablas/f2c/dtrsm.f
+END
+dcabs1.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/45/trunk/src/flablas/f2c/dcabs1.c
+END
+dtrmv.f
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/45/trunk/src/flablas/f2c/dtrmv.f
+END
+dsyrk.f
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/45/trunk/src/flablas/f2c/dsyrk.f
+END
+fix-include.sh
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/45/trunk/src/flablas/f2c/fix-include.sh
+END
+dcabs1.f
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/45/trunk/src/flablas/f2c/dcabs1.f
+END
+zhpmv.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/45/trunk/src/flablas/f2c/zhpmv.c
+END
+sscal.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/45/trunk/src/flablas/f2c/sscal.c
+END
+zhpmv.f
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/45/trunk/src/flablas/f2c/zhpmv.f
+END
+sscal.f
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/45/trunk/src/flablas/f2c/sscal.f
+END
+cdotu.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/45/trunk/src/flablas/f2c/cdotu.c
+END
+drotg.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/45/trunk/src/flablas/f2c/drotg.c
+END
+fix-filenames.sh
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/45/trunk/src/flablas/f2c/fix-filenames.sh
+END
+zdscal.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/45/trunk/src/flablas/f2c/zdscal.c
+END
+cdotu.f
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/45/trunk/src/flablas/f2c/cdotu.f
+END
+drotg.f
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/45/trunk/src/flablas/f2c/drotg.f
+END
+zdscal.f
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/45/trunk/src/flablas/f2c/zdscal.f
+END
+srot.c
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/45/trunk/src/flablas/f2c/srot.c
+END
+srot.f
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/45/trunk/src/flablas/f2c/srot.f
+END
+cgeru.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/45/trunk/src/flablas/f2c/cgeru.c
+END
+cgeru.f
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/45/trunk/src/flablas/f2c/cgeru.f
+END
+zhemm.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/45/trunk/src/flablas/f2c/zhemm.c
+END
+ssymv.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/45/trunk/src/flablas/f2c/ssymv.c
+END
+dtbsv.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/45/trunk/src/flablas/f2c/dtbsv.c
+END
+zhemm.f
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/45/trunk/src/flablas/f2c/zhemm.f
+END
+ssymv.f
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/45/trunk/src/flablas/f2c/ssymv.f
+END
+caxpy.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/45/trunk/src/flablas/f2c/caxpy.c
+END
+dtbsv.f
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/45/trunk/src/flablas/f2c/dtbsv.f
+END
+caxpy.f
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/45/trunk/src/flablas/f2c/caxpy.f
+END
+cgemm.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/45/trunk/src/flablas/f2c/cgemm.c
+END
+ctpmv.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/45/trunk/src/flablas/f2c/ctpmv.c
+END
+cgemm.f
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/45/trunk/src/flablas/f2c/cgemm.f
+END
+cherk.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/45/trunk/src/flablas/f2c/cherk.c
+END
+ctpmv.f
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/45/trunk/src/flablas/f2c/ctpmv.f
+END
+cherk.f
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/45/trunk/src/flablas/f2c/cherk.f
+END
+sger.c
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/45/trunk/src/flablas/f2c/sger.c
+END
+snrm2.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/45/trunk/src/flablas/f2c/snrm2.c
+END
+dtrsv.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/45/trunk/src/flablas/f2c/dtrsv.c
+END
+f2c.sh
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/45/trunk/src/flablas/f2c/f2c.sh
+END
+sger.f
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/45/trunk/src/flablas/f2c/sger.f
+END
+snrm2.f
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/45/trunk/src/flablas/f2c/snrm2.f
+END
+zcopy.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/45/trunk/src/flablas/f2c/zcopy.c
+END
+saxpy.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/45/trunk/src/flablas/f2c/saxpy.c
+END
+dtrsv.f
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/45/trunk/src/flablas/f2c/dtrsv.f
+END
+zcopy.f
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/45/trunk/src/flablas/f2c/zcopy.f
+END
+saxpy.f
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/45/trunk/src/flablas/f2c/saxpy.f
+END
+sgemm.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/45/trunk/src/flablas/f2c/sgemm.c
+END
+stpmv.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/45/trunk/src/flablas/f2c/stpmv.c
+END
+sspr2.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/45/trunk/src/flablas/f2c/sspr2.c
+END
+ztrmm.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/45/trunk/src/flablas/f2c/ztrmm.c
+END
+sgemm.f
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/45/trunk/src/flablas/f2c/sgemm.f
+END
+sspr2.f
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/45/trunk/src/flablas/f2c/sspr2.f
+END
+stpmv.f
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/45/trunk/src/flablas/f2c/stpmv.f
+END
+ztrmm.f
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/45/trunk/src/flablas/f2c/ztrmm.f
+END
+zgbmv.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/45/trunk/src/flablas/f2c/zgbmv.c
+END
+zgbmv.f
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/45/trunk/src/flablas/f2c/zgbmv.f
+END
+dspmv.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/45/trunk/src/flablas/f2c/dspmv.c
+END
+dspmv.f
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/45/trunk/src/flablas/f2c/dspmv.f
+END
+zswap.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/45/trunk/src/flablas/f2c/zswap.c
+END
+zswap.f
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/45/trunk/src/flablas/f2c/zswap.f
+END
+csyr2k.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/45/trunk/src/flablas/f2c/csyr2k.c
+END
+csyr2k.f
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/45/trunk/src/flablas/f2c/csyr2k.f
+END
+dsyr.c
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/45/trunk/src/flablas/f2c/dsyr.c
+END
+dsyr.f
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/45/trunk/src/flablas/f2c/dsyr.f
+END
+sspr.c
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/45/trunk/src/flablas/f2c/sspr.c
+END
+izamax.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/45/trunk/src/flablas/f2c/izamax.c
+END
+zhemv.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/45/trunk/src/flablas/f2c/zhemv.c
+END
+sspr.f
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/45/trunk/src/flablas/f2c/sspr.f
+END
+izamax.f
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/45/trunk/src/flablas/f2c/izamax.f
+END
+zhemv.f
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/45/trunk/src/flablas/f2c/zhemv.f
+END
+ssyr2k.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/45/trunk/src/flablas/f2c/ssyr2k.c
+END
+ctpsv.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/45/trunk/src/flablas/f2c/ctpsv.c
+END
+ssyr2k.f
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/45/trunk/src/flablas/f2c/ssyr2k.f
+END
+lsame.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/45/trunk/src/flablas/f2c/lsame.c
+END
+cgemv.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/45/trunk/src/flablas/f2c/cgemv.c
+END
+ctpsv.f
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/45/trunk/src/flablas/f2c/ctpsv.f
+END
+ztbmv.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/45/trunk/src/flablas/f2c/ztbmv.c
+END
+cgemv.f
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/45/trunk/src/flablas/f2c/cgemv.f
+END
+lsame.f
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/45/trunk/src/flablas/f2c/lsame.f
+END
+ztbmv.f
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/45/trunk/src/flablas/f2c/ztbmv.f
+END
+dsdot.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/45/trunk/src/flablas/f2c/dsdot.c
+END
+ztrsm.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/45/trunk/src/flablas/f2c/ztrsm.c
+END
+stpsv.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/45/trunk/src/flablas/f2c/stpsv.c
+END
+dsdot.f
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/45/trunk/src/flablas/f2c/dsdot.f
+END
+sgemv.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/45/trunk/src/flablas/f2c/sgemv.c
+END
+ztrsm.f
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/45/trunk/src/flablas/f2c/ztrsm.f
+END
+stpsv.f
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/45/trunk/src/flablas/f2c/stpsv.f
+END
+ztrmv.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/45/trunk/src/flablas/f2c/ztrmv.c
+END
+zsyrk.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/45/trunk/src/flablas/f2c/zsyrk.c
+END
+sgemv.f
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/45/trunk/src/flablas/f2c/sgemv.f
+END
+zsyrk.f
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/45/trunk/src/flablas/f2c/zsyrk.f
+END
+ztrmv.f
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/45/trunk/src/flablas/f2c/ztrmv.f
+END
+sasum.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/45/trunk/src/flablas/f2c/sasum.c
+END
+dsymm.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/45/trunk/src/flablas/f2c/dsymm.c
+END
+ssbmv.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/45/trunk/src/flablas/f2c/ssbmv.c
+END
+sasum.f
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/45/trunk/src/flablas/f2c/sasum.f
+END
+drotmg.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/45/trunk/src/flablas/f2c/drotmg.c
+END
+dsymm.f
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/45/trunk/src/flablas/f2c/dsymm.f
+END
+ssbmv.f
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/45/trunk/src/flablas/f2c/ssbmv.f
+END
+drotmg.f
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/45/trunk/src/flablas/f2c/drotmg.f
+END
+zsyr2k.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/45/trunk/src/flablas/f2c/zsyr2k.c
+END
+zrotg.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/45/trunk/src/flablas/f2c/zrotg.c
+END
+zhpr2.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/45/trunk/src/flablas/f2c/zhpr2.c
+END
+zsyr2k.f
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/45/trunk/src/flablas/f2c/zsyr2k.f
+END
+drot.c
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/45/trunk/src/flablas/f2c/drot.c
+END
+zhpr2.f
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/45/trunk/src/flablas/f2c/zhpr2.f
+END
+zrotg.f
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/45/trunk/src/flablas/f2c/zrotg.f
+END
+drot.f
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/45/trunk/src/flablas/f2c/drot.f
+END
+chpmv.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/45/trunk/src/flablas/f2c/chpmv.c
+END
+chpmv.f
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/45/trunk/src/flablas/f2c/chpmv.f
+END
+cher.c
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/45/trunk/src/flablas/f2c/cher.c
+END
+cher.f
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/45/trunk/src/flablas/f2c/cher.f
+END
+dscal.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/45/trunk/src/flablas/f2c/dscal.c
+END
+dscal.f
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/45/trunk/src/flablas/f2c/dscal.f
+END
+zdrot.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/45/trunk/src/flablas/f2c/zdrot.c
+END
+zdrot.f
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/45/trunk/src/flablas/f2c/zdrot.f
+END
+ztbsv.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/45/trunk/src/flablas/f2c/ztbsv.c
+END
+ztbsv.f
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/45/trunk/src/flablas/f2c/ztbsv.f
+END
+dger.c
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/45/trunk/src/flablas/f2c/dger.c
+END
+ssyr2.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/45/trunk/src/flablas/f2c/ssyr2.c
+END
+zdotc.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/45/trunk/src/flablas/f2c/zdotc.c
+END
+dger.f
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/45/trunk/src/flablas/f2c/dger.f
+END
+ssyr2.f
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/45/trunk/src/flablas/f2c/ssyr2.f
+END
+zdotc.f
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/45/trunk/src/flablas/f2c/zdotc.f
+END
+ztrsv.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/45/trunk/src/flablas/f2c/ztrsv.c
+END
+chemm.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/45/trunk/src/flablas/f2c/chemm.c
+END
+csrot.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/45/trunk/src/flablas/f2c/csrot.c
+END
+ztrsv.f
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/45/trunk/src/flablas/f2c/ztrsv.f
+END
+chpr.c
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/45/trunk/src/flablas/f2c/chpr.c
+END
+chemm.f
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/45/trunk/src/flablas/f2c/chemm.f
+END
+csrot.f
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/45/trunk/src/flablas/f2c/csrot.f
+END
+chpr.f
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/45/trunk/src/flablas/f2c/chpr.f
+END
+dsymv.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/45/trunk/src/flablas/f2c/dsymv.c
+END
+srotm.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/45/trunk/src/flablas/f2c/srotm.c
+END
+dsymv.f
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/45/trunk/src/flablas/f2c/dsymv.f
+END
+srotm.f
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/45/trunk/src/flablas/f2c/srotm.f
+END
+zgerc.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/45/trunk/src/flablas/f2c/zgerc.c
+END
+zgerc.f
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/45/trunk/src/flablas/f2c/zgerc.f
+END
+ccopy.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/45/trunk/src/flablas/f2c/ccopy.c
+END
+ccopy.f
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/45/trunk/src/flablas/f2c/ccopy.f
+END
+dnrm2.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/45/trunk/src/flablas/f2c/dnrm2.c
+END
+ctrmm.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/45/trunk/src/flablas/f2c/ctrmm.c
+END
+dnrm2.f
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/45/trunk/src/flablas/f2c/dnrm2.f
+END
+ctrmm.f
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/45/trunk/src/flablas/f2c/ctrmm.f
+END
+daxpy.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/45/trunk/src/flablas/f2c/daxpy.c
+END
+zhbmv.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/45/trunk/src/flablas/f2c/zhbmv.c
+END
+daxpy.f
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/45/trunk/src/flablas/f2c/daxpy.f
+END
+zhbmv.f
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/45/trunk/src/flablas/f2c/zhbmv.f
+END
+dgemm.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/45/trunk/src/flablas/f2c/dgemm.c
+END
+dtpmv.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/45/trunk/src/flablas/f2c/dtpmv.c
+END
+dspr2.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/45/trunk/src/flablas/f2c/dspr2.c
+END
+dgemm.f
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/45/trunk/src/flablas/f2c/dgemm.f
+END
+dtpmv.f
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/45/trunk/src/flablas/f2c/dtpmv.f
+END
+scopy.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/45/trunk/src/flablas/f2c/scopy.c
+END
+dspr2.f
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/45/trunk/src/flablas/f2c/dspr2.f
+END
+cgbmv.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/45/trunk/src/flablas/f2c/cgbmv.c
+END
+scopy.f
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/45/trunk/src/flablas/f2c/scopy.f
+END
+cgbmv.f
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/45/trunk/src/flablas/f2c/cgbmv.f
+END
+strmm.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/45/trunk/src/flablas/f2c/strmm.c
+END
+strmm.f
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/45/trunk/src/flablas/f2c/strmm.f
+END
+dspr.c
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/45/trunk/src/flablas/f2c/dspr.c
+END
+sdot.c
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/45/trunk/src/flablas/f2c/sdot.c
+END
+dspr.f
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/45/trunk/src/flablas/f2c/dspr.f
+END
+sdot.f
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/45/trunk/src/flablas/f2c/sdot.f
+END
+cswap.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/45/trunk/src/flablas/f2c/cswap.c
+END
+sgbmv.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/45/trunk/src/flablas/f2c/sgbmv.c
+END
+cswap.f
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/45/trunk/src/flablas/f2c/cswap.f
+END
+sgbmv.f
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/45/trunk/src/flablas/f2c/sgbmv.f
+END
+zher2.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/45/trunk/src/flablas/f2c/zher2.c
+END
+sswap.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/45/trunk/src/flablas/f2c/sswap.c
+END
+zher2.f
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/45/trunk/src/flablas/f2c/zher2.f
+END
+sswap.f
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/45/trunk/src/flablas/f2c/sswap.f
+END
+icamax.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/45/trunk/src/flablas/f2c/icamax.c
+END
+chemv.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/45/trunk/src/flablas/f2c/chemv.c
+END
+icamax.f
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/45/trunk/src/flablas/f2c/icamax.f
+END
+chemv.f
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/45/trunk/src/flablas/f2c/chemv.f
+END
+csscal.c
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/45/trunk/src/flablas/f2c/csscal.c
+END
+zher.c
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/45/trunk/src/flablas/f2c/zher.c
+END
+csscal.f
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/45/trunk/src/flablas/f2c/csscal.f
+END
+ctbmv.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/45/trunk/src/flablas/f2c/ctbmv.c
+END
+zher.f
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/45/trunk/src/flablas/f2c/zher.f
+END

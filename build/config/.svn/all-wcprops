@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/45/trunk/build/config
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/45/trunk/build/config/README
+END
+ignore_list
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/45/trunk/build/config/ignore_list
+END
+lib_list
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/45/trunk/build/config/lib_list
+END
+leaf_list
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/45/trunk/build/config/leaf_list
+END

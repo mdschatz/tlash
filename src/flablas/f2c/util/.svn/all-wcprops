@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/93/trunk/src/flablas/f2c/util
+END
+z_div.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/45/trunk/src/flablas/f2c/util/z_div.c
+END
+r_imag.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/45/trunk/src/flablas/f2c/util/r_imag.c
+END
+d_imag.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/45/trunk/src/flablas/f2c/util/d_imag.c
+END
+r_cnjg.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/45/trunk/src/flablas/f2c/util/r_cnjg.c
+END
+d_cnjg.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/45/trunk/src/flablas/f2c/util/d_cnjg.c
+END
+c_div.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/45/trunk/src/flablas/f2c/util/c_div.c
+END

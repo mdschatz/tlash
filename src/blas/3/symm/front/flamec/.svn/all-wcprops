@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/93/trunk/src/blas/3/symm/front/flamec
+END
+FLA_Symm_lu.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/45/trunk/src/blas/3/symm/front/flamec/FLA_Symm_lu.c
+END
+FLA_Symm.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/45/trunk/src/blas/3/symm/front/flamec/FLA_Symm.c
+END
+FLA_Symm.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/45/trunk/src/blas/3/symm/front/flamec/FLA_Symm.h
+END
+FLA_Symm_ru.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/45/trunk/src/blas/3/symm/front/flamec/FLA_Symm_ru.c
+END
+FLA_Symm_ll.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/45/trunk/src/blas/3/symm/front/flamec/FLA_Symm_ll.c
+END
+FLASH_Symm.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/45/trunk/src/blas/3/symm/front/flamec/FLASH_Symm.c
+END
+FLA_Symm_internal.c
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/45/trunk/src/blas/3/symm/front/flamec/FLA_Symm_internal.c
+END
+FLA_Symm_rl.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/45/trunk/src/blas/3/symm/front/flamec/FLA_Symm_rl.c
+END
